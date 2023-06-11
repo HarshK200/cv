@@ -1,1 +1,1 @@
-
+const date = new Date()
